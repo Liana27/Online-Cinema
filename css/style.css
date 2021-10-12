@@ -327,4 +327,7 @@ body {
     font-size: 17px;
     line-height: 20px;
   }
+  .legend {
+    display: none;
+  }
 }
